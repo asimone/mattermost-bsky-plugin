@@ -7,7 +7,7 @@ This was vibe coded, so use at your own risk. I am technically inclined, but not
 
 # How to use
 
-1.) Download the [bluesky-unfurl.tar.gz](blob:https://github.com/6984e416-d1fa-4835-8eec-e97f832ac28c). 
+1.) Download the [bluesky-unfurl.tar.gz](https://github.com/6984e416-d1fa-4835-8eec-e97f832ac28c). 
 
 2.) In the main menu in the upper left go to System Console > Plugin Management and upload the package.
 
