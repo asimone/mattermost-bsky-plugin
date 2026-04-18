@@ -1,9 +1,9 @@
 {
-  "id": "com.mattermost-bsky-plugin.bluesky-unfurl",
+  "id": "com.asimone.bluesky-unfurl",
   "name": "Bluesky URL Unfurl",
   "description": "Unfurls Bluesky (bsky.app) post URLs with rich previews: author, post text, images, and engagement stats.",
-  "homepage_url": "https://github.com/mattermost-bsky-plugin/mattermost-bsky-plugin",
-  "support_url": "https://github.com/mattermost-bsky-plugin/mattermost-bsky-plugin/issues",
+  "homepage_url": "https://github.com/asimone/mattermost-bsky-plugin",
+  "support_url": "https://github.com/asimone/mattermost-bsky-plugin/issues",
   "version": "0.1.0",
   "min_server_version": "9.0.0",
   "server": {

@@ -1,4 +1,4 @@
-module github.com/mattermost-bsky-plugin/mattermost-bsky-plugin
+module github.com/asimone/mattermost-bsky-plugin
 
 go 1.21
 

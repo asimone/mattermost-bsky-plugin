@@ -1,4 +1,4 @@
-PLUGIN_ID      = com.mattermost-bsky-plugin.bluesky-unfurl
+PLUGIN_ID      = com.asimone.bluesky-unfurl
 PLUGIN_VERSION = 0.1.0
 BUNDLE         = $(PLUGIN_ID)-$(PLUGIN_VERSION).tar.gz
 
