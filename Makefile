@@ -1,6 +1,6 @@
 PLUGIN_ID      = com.asimone.bluesky-unfurl
 PLUGIN_VERSION = 0.1.0
-BUNDLE         = $(PLUGIN_ID)-$(PLUGIN_VERSION).tar.gz
+BUNDLE         = bluesky-unfurl.tar.gz
 
 SERVER_DIR     = server
 SERVER_DIST    = $(SERVER_DIR)/dist
