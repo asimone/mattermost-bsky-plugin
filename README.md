@@ -1,5 +1,5 @@
 # mattermost-bsky-plugin for Linux/Arm64
-a better unfurl for bluesky posts in Mattermost on Linx/Arm64 machines (think Raspberry Pi)
+a better unfurl for bluesky posts in Mattermost on Linx/Arm64 machines (like the Raspberry Pi I run mine on)
 
 This was vibe coded, so use at your own risk. I am technically inclined, but not an expert software engineer by any stretch.
 
