@@ -8,5 +8,7 @@ This was vibe coded, so use at your own risk. I am technically inclined, but not
 # How to use
 
 1.) Download the bluesky-unfurl.tar.gz. 
+
 2.) In the main menu in the upper left go to System Console > Plugin Management and upload the package.
+
 3.) Go to the plugin settings, enable the package and toggle "Show Engagement Counts" on/off (true/false) depending on preferences.
